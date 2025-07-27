@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-ollama
+langchain-chroma
+pandas
+vosk
+sounddevice
+numpy
+rich
+faster-whisper
